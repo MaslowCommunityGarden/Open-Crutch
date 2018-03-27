@@ -7,4 +7,4 @@ This crutch was designed by one of our kickstarter backers who is a nurse named 
 
 Here's a picture of the crutch in our shop:
 
-![open crutch in the maslow shop](https://github.com/MaslowCommunityGarden/Open-Crutch/blob/master/crutchonground.jpg)
+![open crutch in the maslow shop](https://raw.githubusercontent.com/MaslowCommunityGarden/Open-Crutch/master/crutchonground.jpg)
