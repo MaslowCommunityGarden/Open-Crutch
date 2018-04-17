@@ -8,3 +8,5 @@ This crutch was designed by one of our kickstarter backers who is a nurse named 
 Here's a picture of the crutch in our shop:
 
 ![open crutch in the maslow shop](https://raw.githubusercontent.com/MaslowCommunityGarden/Open-Crutch/master/crutchonground.jpg)
+
+Note from jwolter: This project was the co-winner of the Maslow Forums' Community Gardener badge on April 11, 2018.
